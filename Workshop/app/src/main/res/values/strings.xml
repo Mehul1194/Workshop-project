@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Workshop Labs</string>
+    <string name="machine">Machine Shop</string>
+    <string name="fitting">Fitting Shop</string>
+    <string name="foundry">Foundry Shop</string>
+    <string name="welding">Welding Shop</string>
+    <string name="des">Documentation</string>
+    <string name="dia">Diagrams</string>
+    <string name="ref1">Reference video-1</string>
+    <string name="ref2">Reference video-2</string>
+    <string name="machinet">MACHINE SHOP</string>
+    <string name="machined"><b>INTRODUCTION</b>\nA machine shop is a room, building, or company where machining is done. In a machine shop, machinists use machine-tools and cutting-tools to make parts of metal or plastic (but sometimes of other materials such as glass or wood). A machine shop can be a small business (such as a job shop) or a portion of a factory, whether a tool room or a production area for manufacturing. The parts produced can be the end product of the factory, to be sold to customers in the machine industry, the car industry, the aircraft industry, or others. In other cases, companies in those fields have their own machine shops.
+\nMachine shop is a place in which metal parts are cut to the required size and put together form mechanical units or machines. The machines so made are to be used directly or indirectly in the production of necessities and luxuries of civilization. Machine shop is the base of all mechanical production.
+        \n\n<b>MACHINES</b>
+\nA machine is a tool containing one or more parts that uses energy to perform an intended action. Machines are usually powered by mechanical, chemical, thermal, or electrical means, and are often motorized. Historically, a power tool also required moving parts to classify as a machine. However, the advent of electronics has led to the development of power tools without moving parts that are considered machines.
+\n\n<b>MACHINING</b>
+\nMachining is any of various processes in which a piece of raw material is cut into a desired final shape and size by a controlled material-removal process. The many processes that have this common theme, controlled material removal, are today collectively known as subtractive manufacturing, in distinction from processes of controlled material addition, which are known as additive manufacturing. Exactly what the "controlled" part of the definition implies can vary, but it almost always implies the use of machine tools (in addition to just power tools and hand tools)
+        \n\n<u><b>LATHE MACHINE</b></u>
+\n\n<b>INTRODUCTION</b>
+\nLathe is one of the most versatile and widely used machine tools all over the world. It is commonly known as the mother of all other machine tool. The main function of a lathe is to remove metal from a job to give it the required shape and size. The job is secure1y and rigid1y held in the chuck or in between centers on the lathe machine and then turn it against a single point cutting tool which wi1l remove meta1 from the job in the form of chips. Fig. 21.1 showsthe working principle of lathe. An engine lathe is the most basic and simplest form of the lathe. It derives its name from the early lathes, which obtained their power from engines. Besides the simple turning operation as described above, lathe can be used to carry out other operations also, such as drilling, reaming, boring, taper turning, knurling, screw- thread cutting, grinding etc Working principle of Lathe Machine
+\n\n<b>TYPES OF LATHE</b>
+\nLathes are manufactured in a variety of types and sizes, from very small bench lathes used for precision work to huge lathes used for turning large steel shafts. But the principle of operation and function of all types of lathes is same. The different types oflathes are:
+\n1. Speed Lathe
+\n2. Centre or Engine Lathe
+\n3. Bench Lathe
+\n4. Tool Room Lathe
+\n5. Capstan and Turret Lathe
+\n6.Automatic Lathe
+    \n\n<b><u>HEAD STOCK</u></b>
+\nThe main function of headstock is to transmit power to the different parts of a lathe. It comprises of the headstock casting to accommodate all the parts within it including gear train arrangement. The main spindle is adjusted in it, which possesses live centre to which the work can be attached. It supports the work and revolves with the work, fitted into the main spindle of the headstock. The cone pulley is also attached with this arrangement, which is used to get various spindle speed through electric motor. The back gear arrangement is used for obtaining a wide range of slower speeds. Some gears called change wheels are used to produce different velocity ratio required for thread cutting.</string>
+    <string name="weldingd"><b><u>WELDING</u></b>
+\nWelding is a process for joining two similar or dissimilar metals by fusion. It joins different metals/alloys, with or without the application of pressure and with or without the use of filler metal. The fusion of metal takes place by means of heat. The heat may be generated either from combustion of gases, electric arc, electric resistance or by chemical reaction. Welding provides a permanent joint but it normally affects the metallurgy of the components. It is therefore usually accompanied by post weld heat treatment for most of the critical components. The welding is widely used as a fabrication and repairing process in industries. Some of the typical applications of welding include the fabrication of ships, pressure vessels, automobile bodies, off shore platform, bridges, welded pipes, sealing of nuclear fuel and explosives, etc. Most of the metals and alloys can be welded by one type of welding process or the other. However, some are easier to weld than others. To compare this ease in welding term ‘weld ability’ is often used. The weld ability may be defined as property of a metal which indicates the ease with which it can be welded with other similar or dissimilar metals. Elements of welding process used with common welding joints such as base metal, fusion zone, weld face, root face, root opening toe and root are depicted in Figure.
+\n\n<b>Edge preparations</b>
+\nFor welding the edges of joining surfaces of metals are prepared first. Different edge preparations may be used for welding butt joints, which are given in Figure.
+\n\n<b>Welding joints</b>
+\nSome common welding joints are shown in Figure. Welding joints are of generally of two major kinds namely lap joint and butt joint. The main types are described as under :-
+\n\n<b><u>1. Lap weld joint</u></b>
+\n<b>Single-Lap Joint</b>
+\nThis joint, made by overlapping the edges of the plate, is not recommended for most work. The single lap has very little resistance to bending. It can be used satisfactorily for joining two cylinders that fit inside one another.
+\n\n<b>Double-Lap Joint</b>
+\nThis is stronger than the single-lap joint but has the disadvantage that it requires twice as much welding.
+\n\n<b>Tee Fillet Weld</b>
+\nThis type of joint, although widely used, should not be employed if an alternative design is possible.
+        \n\n<b><u>2. Butt weld joint</u></b>
+\n\n<b>a. Single-Vee Butt Weld</b>
+\nIt is used for plates up to 15.8 mm thick. The angle of the vee depends upon the technique being used, the plates being spaced approximately 3.2 mm.
+\n\n<b>b. Double-Vee Butt Weld</b>
+\nIt is used for plates over 13 mm thick when the welding can be performed on both sides of the plate. The top vee angle is either 60° or 80°, while the bottom angle is 80°, depending on the technique being used.
+        \n\n<b><u>Welding Positions</u></b>
+\nAs shown in below in figure there are four types of welding positions, which are given as:
+\na. Flat or down hand position
+\nb. Horizontal position
+\nc. Vertical position
+\nd. Overhead position
+\n\n<b>Flat or Down-hand Welding Position</b>
+\nThe flat position or down hand position is one in which the welding is performed from the upper  side of the joint and the face of the weld is approximately horizontal.
+\n\n<b>Horizontal Welding Position</b>
+\nIn horizontal position, the plane of the work piece is vertical and the deposited weld head is  horizontal.  This position of welding is most commonly used in welding vessels and reservoirs.
+\n\n<b>Vertical Welding Position</b>
+\nIn vertical position, the plane of the work-piece is vertical and the weld is deposited upon a vertical surface. It is difficult to produce satisfactory welds in this position due to the effect of the force of gravity on the molten metal.</string>
+    <string name="foundryd"><b>FOUNDRY</b>
+\n\n<b>PATTERN</b>
+\nA pattern is a model or the replica of the object (to be casted). It is embedded in molding sand and suitable ramming of molding sand around the pattern is made. The pattern is then withdrawn for generating cavity (known as mold) in molding sand.
+\n\n<b>COMMON PATTERN MATERIALS</b>
+\nThe common materials used for making patterns are wood, metal, plastic, plaster, wax or Mercury.
+        \n\n<b><u>TYPES OF PATTERN</u></b>
+\nThe types of the pattern and the description of each are given as under.
+\n1. One piece or solid pattern
+        \n2. Two piece or split pattern
+        \n3. Cope and drag pattern
+        \n4. Three-piece or multi piece pattern
+        \n5. Loose piece pattern
+        \n6. Match plate pattern
+        \n7. Follow board pattern
+        \n8. Gated pattern
+        \n9. Sweep pattern
+        \n10. Skeleton pattern
+        \n11. Segmental or part pattern
+\n\n1. Single-piece or solid pattern: Solid pattern is made of single piece without joints, partings lines or loose pieces. It is the simplest form of the pattern. Typical single piece pattern
+\n\n2. Two-piece or split pattern: When solid pattern is difficult for withdrawal from the mold cavity, then solid pattern is split in two parts. Split pattern is made in two pieces which are joined at the parting line by means of dowel pins. The splitting at the parting line is done to facilitate the withdrawal of the pattern. A typical example is shown in Fig. 10.2
+        \n\n<b><u>MOLDING SAND</u></b>
+\nThe general sources of receiving molding sands are the beds of sea, rivers, lakes, granular elements of rocks, and deserts. Molding sands may be of two types namely natural or synthetic. Natural molding sands contain sufficient binder. Whereas synthetic molding sands are prepared artificially using basic sand molding constituents (silica sand in 88-92%, binder 6-12%, water or moisture content 3-6%) and other additives in proper proportion by weight with perfect mixing and mulling in suitable equipments.
+\n\n<b>Binder</b>
+\nIn general, the binders can be either inorganic or organic substance. The inorganic group includes clay sodium silicate and port land cement etc. In foundry shop, the clay acts as binder which may be Kaolonite, Ball Clay, Fire Clay, Limonite, Fuller’s earth and Bentonite. Binders included in the organic group are dextrin, molasses, cereal binders, linseed oil and resins like phenol formaldehyde, urea formaldehyde etc. Organic binders are mostly used for core making.Among all the above binders, the bentonite variety of clay is the most common. However, this clay alone cannot develop bonds among sand grins without the presence of moisture in molding sand and core sand.
+\n\n<b>Additives</b>
+\nAdditives are the materials generally added to the molding and core sand mixture to develop some special property in the sand. Some common used additives for enhancing the properties of molding and core sands are discussed as under.
+\n\n1. Coal dust: Coal dust is added mainly for producing a reducing atmosphere during casting.
+\n\n2. Corn flour: It belongs to the starch family of carbohydrates and is used to increase the collapsibility of the molding and core sand
+\n\n3. Dextrin: Dextrin belongs to starch family of carbohydrates that behaves also in a manner similar to that of the corn flour. It increases dry strength of the molds.
+\n\n4. Sea coal: Sea coal is the fine powdered bituminous coal which positions its place among the pores of the silica sand grains in molding sand and core sand
+\n\n5. Wood flour: This is a fibrous material mixed with a granular material like sand; its relatively long thin fibers prevent the sand grains from making contact with one another.
+\n\n6. Silica flour: It is called as pulverized silica and it can be easily added up to 3% which increases the hot strength and finish on the surfaces of the molds and cores
+\n\n<b>KINDS OF MOULDING SAND</b>
+\nMolding sands can also be classified according to their use into number of varieties which are described below.
+\n\n1. Green sand: Green sand is also known as tempered or natural sand which is a just prepared mixture of silica sand with 18 to 30 percent clay, having moisture content from 6 to 8%. The clay and water furnish the bond for green sand. It is fine, soft, light, and porous.
+\n\n2. Dry sand: Green sand that has been dried or baked in suitable oven after the making mold and cores, is called dry sand. It possesses more strength, rigidity and thermal stability.
+\n\n3. Loam sand: Loam is mixture of sand and clay with water to a thin plastic paste. Loam sand possesses high clay as much as 30-50% and 18% water.
+\n\n4. Facing sand: Facing sand is just prepared and forms the face of the mould. It is directly next to the surface of the pattern and it comes into contact molten metal when the mould is poured. Initial coating around the pattern and hence for mold surface is given by this sand. This sand is subjected severest conditions and must possess, therefore, high strength refractoriness
+\n\n<b><u>TOOLS:-</u></b>
+        \n\nHand riddle: It consists of a screen of standard circular wire mesh equipped with circular wooden frame.It is generally used for cleaning the sand for removing foreign material such as nails, shot metal, splinters of wood etc. from it. Even power operated riddles are available for riddling large volume of sand.
+\n\nShovel: It consists of a steel pan fitted with a long wooden handle. It is used in mixing, tempering and conditioning the foundry sand by hand. It is also used for moving and transforming the molding sand to the container and molding box or flask.
+\n\nRammers: Rammers are shown in Fig. These are required for striking the molding sand mass in the molding box to pack or compact it uniformly all around the pattern.
+\n\nSprue pin: It is a tapered rod of wood or iron which is placed or pushed in cope to join mold cavity while the molding sand in the cope is being rammed.
+\n\nTrowels: These are used for finishing flat surfaces and comers inside a mould. Common shapes of trowels are shown as under. They are made of iron with a wooden handle.
+\n\nLifter : A lifter is a finishing tool used for repairing the mould and finishing the mould sand. Lifter is also used for removing loose san mould.
+\n\nStrike off bar: It is a flat bar, made of wood or iron to strike off the excess sand from the top of a box after ramming. It’s one edge made beveled and the surface perfectly smooth and plane.
+\n\nVent wire: It is a thin steel rod or wire carrying a pointed edge at one end and a wooden handle or a bent loop at the other. After ramming and striking off the excess sand it is used to make small holes, called vents, in the sand mould to allow the exit of gases and steam during casting</string>
+    <string name="fittingd"><b><u>FITTING SHOP</u></b>
+\nThe term fitting, is related to assembly of parts, after bringing the dimension or shape to the required size or form, in order to secure the necessary fit. The operations required for the same  are usually carried out on a work bench, hence the term bench work is also added with the name fitting. The bench work and fitting plays an important role in engineering. Although in today\'s industries most of the work is done by automatic machines which produces the jobs with good accuracy but still it (job) requires some hand operations called fitting operations. The person working in the fitting shop is called fitter
+\n\n<b><u>FITTING TOOLS:</u></b>
+\nFitting shop tools are classified as below:
+\nWork Holding Devices/ Clamping Tools.
+\nMeasuring and Marking Tools.
+\nCutting Tools.
+\nStriking Tools.
+\nDrilling Tools.
+\nThreading Tools.
+        \n\n<b><u>WORK HOLDING DEVICES /CLAMPING TOOLS:</u></b>
+\n<b>Work Bench :</b>
+\nA fitting process can be done at various places, but most of the important operations of fitting are generally carried out on a table called work bench. The work bench is a strong, heavy and rigid table made up of hard wood. The size of the work bench required is about 150 to 180 cm length, nearly 90 cm width
+    \n\n<b>BENCH VICE:</b>
+\nIt is firmly fixed to the bench with the help of nuts and bolts. It consists of a cast Iron body and cast iron jaws. Two jaw plates are fitted on both the jaws. The holding surface of the jaw plates is knurled in order to increase the gapping. Jaw plates are made up of carbon steel and are wear resistant. One jaw is fixed to the body and the second slides on a square threaded screw with the help of a handle. The jaws are opened up to required length; job is placed in the two jaws and is fully tightened with the help of handle. Handle is used to move the movable jaw
+\n<b>V Block :</b>
+\nIn V Block, V grooves are provided to hold the round objects longitudinally. The screw of the clamp applies the holding pressure. When the handle is rotated there is movement in the screw.
+        \n\n<b><u>II. MEASURING TOOLS</u></b>
+\n\Steel Rule:These are made up of stainless steel and are available in many sizes ranging from 1/2 ft. to 2 ft. These are marked in inches or millimeters. All the faces are machined true. The edges of steel rule should be protected from rough handling.
+   \n\n Flat file: This file has parallel edges for about two-thirds of the length and then it tapers in width and thickness. The faces are double cut while the edges are single cut.
+\n\nHand file: for a hand file the width is constant throughout, but the thickness tapers as given in flat file. Both faces are double cut and one edge is single cut. The remaining edge is kept uncut in order to use for filing a right-angled corner on one side only.
+\n\nSquare file: It has a square cross-section. It is parallel for two-thirds of its length and then tapers towards the tip. It is double cut on all sides. It is used for filing square corners and slots.
+\n\nTriangular file: It has width either parallel throughout or up to middle and then tapered towards the tip. Its section is triangular (equilateral) and the three faces are double cut and the edges single cut. It is used for filing square shoulders or comers and for sharpening wood working saws.
+\n\nRound file: It has round cross-section. It carries single cut teeth all round its surface. It is normally made tapered towards the tip and is frequently known as rat-tail file. Parallel round files having same diameter throughout the length are also available. The round files are used for opening out holes, producing round comers, round-ended slots etc.
+\n\nHalf-round file: Its cross-section is not a true half circle but is only about one-third of a circle. The width of the file is either parallel throughout or up to middle and then tapered towards the tip. The flat side of this file is always a double cut and curved side has single cut. It is used for filing curved surfaces.
+\n\nKnife edge file: It has a width tapered like a knife blade and it is also tapered towards the tip and thickness. It carries double cut teeth on the two broad faces and single cut teeth on the edge. It is used for finishing sharp corners of grooves and slots.
+\n\nDiamond file: Its cross-section is like a diamond. It is used for special work
+        \n\nNeedle file: These are thin small files having a parallel tang and a thin, narrow and pointed blade made in different shapes of its cross-section to suit the particular needs.</string>
+    <string name="large_text">hello</string>
+</resources>
